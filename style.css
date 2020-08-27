@@ -27,7 +27,7 @@ body .options {
   -webkit-box-align: stretch;
           align-items: stretch;
   overflow: hidden;
-  width: calc(100% - 100px);
+  width: calc(62% - -100px);
   height: 400px;
 }
 

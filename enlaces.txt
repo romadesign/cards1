@@ -1,0 +1,24 @@
+icons
+<link rel='stylesheet' href='https://pro.fontawesome.com/releases/v5.2.0/css/all.css'>
+
+fontawesome
+https://fontawesome.com/
+img react links
+https://i.stack.imgur.com/sUVDk.png
+
+img angular
+https://blog.ckgrafico.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-13-at-21.22.29.png
+
+img  javascript
+https://i.redd.it/ahaymh2i1ms21.png
+
+
+img html 
+https://mobirise.com/extensions/ce-assets/images/3-471x464.jpg
+
+img css
+https://cursoswp.educacion.navarra.es/cursowp2018/wp-content/uploads/2018/03/codigo-css-1280x720.jpg
+
+jquery
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+https://cdnjs.com/libraries/jquery
